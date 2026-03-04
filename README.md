@@ -14,7 +14,7 @@ Database changed
 
 # 2. Membuat Tabel dan Mengisi Data
 
-## Tabel dan Data Pengunjung
+## a. Tabel dan Data Pengunjung
 
 ```
 MariaDB [db_pemesananHotel]> create table tb_pengunjung (
@@ -38,7 +38,7 @@ Records: 6  Duplicates: 0  Warnings: 0
 
 ---
 
-## Tabel dan Data Kamar
+## b. Tabel dan Data Kamar
 
 ```
 MariaDB [db_pemesananHotel]> create table tb_kamar (
@@ -64,7 +64,7 @@ Records: 6  Duplicates: 0  Warnings: 0
 
 ---
 
-## Tabel dan Data Pemesanan
+## c. Tabel dan Data Pemesanan
 
 ```
 MariaDB [db_pemesananHotel]> create table tb_pemesanan (
